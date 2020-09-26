@@ -14,3 +14,5 @@ See also:
  ---
 
 * List of Projects
+  * [Prismatic-Night](https://github.com/dbuxy218/Prismatic-Night)  by @dbuxy218
+  * [min-nord-firefox](https://github.com/not-a-dev-stein/min-nord-firefox) A minimalist startpage for Firefox with the Nord color pallette. by @not-a-dev-stein
