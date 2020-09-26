@@ -1,7 +1,5 @@
 # ![logo](./logo.png)
 
----
-
 This is a carefully compiled list of remarkable projects with the focus on startpages.
 
 ## Contributing
