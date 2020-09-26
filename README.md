@@ -4,7 +4,7 @@ This is a carefully compiled list of remarkable projects with the focus on start
 
 ## Contributing
 
-please see our [contributing guidelines](https://github.com/jnmcfly/awsome-startpage/blob/master/CONTRIBUTING.md)
+please see our [contribution guidelines](https://github.com/jnmcfly/awsome-startpage/blob/master/CONTRIBUTING.md)
 
 See also:
 
