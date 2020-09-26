@@ -21,5 +21,5 @@ See also:
   * [Organizr](https://github.com/causefx/Organizr) Organizr allows you to setup "Tabs" that will be loaded all in one webpage by @causefx
   * [Bento](https://github.com/MiguelRAvila/Bento) Bento is an local/self-hosted tile-based clean startpage by @MiguelRAvila
   * [StartOS](https://github.com/Jaredk3nt/startos) a different take on startpages. StartOS will bring you back the 90s by @Jaredk3nt
-  * [search](https://github.com/l0bsters/search) search offers you an tangle of nodes for your bookmarks
+  * [search](https://github.com/l0bsters/search) search offers you an tangle of nodes for your bookmarks by @l0bsters
   
