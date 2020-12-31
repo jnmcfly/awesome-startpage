@@ -1,5 +1,7 @@
 # ![logo](./logo.png)
 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 This is a carefully compiled list of remarkable projects with the focus on startpages.
 
 ## Contributing
