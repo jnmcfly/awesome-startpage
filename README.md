@@ -1,5 +1,7 @@
 # Awesome Startpage [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+> Over here, everything is about pretty awesome startpages.
+
 ## Contents
 
 - [Projects](#projects)
@@ -26,6 +28,6 @@
 - [/r/startpages](https://www.reddit.com/r/startpages/)
 - [/r/unixporn](https://www.reddit.com/r/unixporn/)
 
-## Contributing
+## Contribute
 
 - [contribution guidelines](https://github.com/jnmcfly/awsome-startpage/blob/master/CONTRIBUTING.md)
