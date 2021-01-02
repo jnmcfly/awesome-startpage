@@ -6,7 +6,6 @@
 
 - [Projects](#projects)
 - [Links](#links)
-- [Contribute](#contribute)
 
 ---
 
@@ -29,6 +28,6 @@
 - [/r/startpages](https://www.reddit.com/r/startpages/)
 - [/r/unixporn](https://www.reddit.com/r/unixporn/)
 
-## Contribute
+## Contributing
 
 - [contribution guidelines](https://github.com/jnmcfly/awsome-startpage/blob/master/CONTRIBUTING.md)
