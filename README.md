@@ -30,6 +30,7 @@
 
 ### Static
 
+- [Chicago Startup Page](https://github.com/timothypholmes/startup-page) - Clean startpage with moody video backgrounds.
 - [HomeTerm](https://github.com/Jaredk3nt/HomeTerm) - A homepage disguised as a toy terminal.
 - [Kanji](https://github.com/Alededorigo/Kanji) - Very clean, japan inspired, startpage.
 - [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) - Minimalistic light/darkish startpage
