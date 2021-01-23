@@ -48,6 +48,7 @@
 ### Chrome Add-Ons
 
 - [New Tab Redirect](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna) - Allows a user to provide the URL of the page that loads in a new tab.
+- [hexagonTab](https://chrome.google.com/webstore/detail/hexagontab/hjapnkiokjkamfjenbdagacmpkobjlgi) - Save bookmarks to your start page on a unique hexagonal grid. Also available for [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/hexagontab/)
 
 ### Firefox Add-Ons
 
