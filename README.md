@@ -31,6 +31,8 @@
 ### Static
 
 - [HomeTerm](https://github.com/Jaredk3nt/HomeTerm) - A homepage disguised as a toy terminal.
+- [Kanji](https://github.com/Alededorigo/Kanji) - Very clean, japan inspired, startpage.
+- [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) - Minimalistic light/darkish startpage
 - [null](https://github.com/sadparadiseinhell/null) - Another one simple startpage.
 - [search](https://github.com/l0bsters/search) - Search offers you an tangle of nodes for your bookmarks.
 - [StartOS](https://github.com/Jaredk3nt/startos) - A different take on startpages. StartOS will bring you back the 90s.
