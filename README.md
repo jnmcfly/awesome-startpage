@@ -32,6 +32,7 @@
 
 - [b-w-kitty](https://github.com/PrettyCoffee/b-w-kitty) - Very creative and customizable startpage, not only for catlovers.
 - [Chicago Startup Page](https://github.com/timothypholmes/startup-page) - Clean startpage with moody video backgrounds.
+- [grtcdr's startpages](https://github.com/grtcdr/startpages) - grtcdr's awesome collection of clean, good looking, startpages. Love the Nodric one!
 - [HomeTerm](https://github.com/Jaredk3nt/HomeTerm) - A homepage disguised as a toy terminal.
 - [Kanji](https://github.com/Alededorigo/Kanji) - Very clean, japan inspired, startpage.
 - [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) - Minimalistic light/darkish startpage
@@ -39,7 +40,6 @@
 - [search](https://github.com/l0bsters/search) - Search offers you an tangle of nodes for your bookmarks.
 - [StartOS](https://github.com/Jaredk3nt/startos) - A different take on startpages. StartOS will bring you back the 90s.
 - [the-glorious-startpage](https://github.com/manilarome/the-glorious-startpage/) - A bloated and modern-looking startpage. Responsive, Weather, Dynamic Background and many more.
-- [grtcdr's startpages](https://github.com/grtcdr/startpages) - grtcdr's awesome collection of clean, good looking, startpages. Love the Nodric one!
 
 ### Firefox Specific
 
