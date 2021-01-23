@@ -39,6 +39,7 @@
 - [search](https://github.com/l0bsters/search) - Search offers you an tangle of nodes for your bookmarks.
 - [StartOS](https://github.com/Jaredk3nt/startos) - A different take on startpages. StartOS will bring you back the 90s.
 - [the-glorious-startpage](https://github.com/manilarome/the-glorious-startpage/) - A bloated and modern-looking startpage. Responsive, Weather, Dynamic Background and many more.
+- [grtcdr's startpages](https://github.com/grtcdr/startpages) - grtcdr's awesome collection of clean, good looking, startpages. Love the Nodric one!
 
 ### Firefox Specific
 
