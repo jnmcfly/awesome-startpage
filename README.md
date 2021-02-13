@@ -26,6 +26,7 @@
 
 - [Heimdall](https://github.com/linuxserver/Heimdall) - Server-service based application orientated dashboard.
 - [Organizr](https://github.com/causefx/Organizr) - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
+- [pomme-page](https://github.com/kikiklang/pomme-page) - Pretty cool startpage with colorful tiles.
 - [root](https://github.com/imreyesjorge/root-startpage) - Root is a start-page aimed to simplicity and elegance.
 
 ### Static
