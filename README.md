@@ -31,6 +31,7 @@
 
 ### Static
 
+- [andreacarrara's Startpage](https://github.com/andreacarrara/Startpage) - A clean and simple Keyboard first Startpage.
 - [b-w-kitty](https://github.com/PrettyCoffee/b-w-kitty) - Very creative and customizable startpage, not only for catlovers.
 - [Chicago Startup Page](https://github.com/timothypholmes/startup-page) - Clean startpage with moody video backgrounds.
 - [grtcdr's startpages](https://github.com/grtcdr/startpages) - grtcdr's awesome collection of clean, good looking, startpages. Love the Nodric one!
