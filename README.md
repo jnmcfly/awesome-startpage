@@ -1,6 +1,6 @@
 # Awesome Startpage [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> When you start your web browser, at least one web page is opened automatically. This page is called "Startpage". Startpage can be set to specific websites or can be customized as you like. Here you will find a curated list of Startpages.
+> When you start your web browser, at least one web page is opened automatically. This page is called Startpage. A Startpage can be set to specific websites or can be customized as you like. Here you will find a curated list of customized Startpages.
 
 ## Contents
 
