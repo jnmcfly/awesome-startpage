@@ -21,6 +21,7 @@
 
 - [Bento](https://github.com/MiguelRAvila/Bento) - Bento is an local/self-hosted tile-based clean startpage.
 - [Prismatic-Night](https://github.com/dbuxy218/Prismatic-Night) - Pretty sophisticated startpage, hosted on GitHub Pages.
+- [Dashy](https://github.com/Lissy93/dashy) - Feature-rish, self-hosted start page for your browser or homelab.
 
 ### Hosted
 
