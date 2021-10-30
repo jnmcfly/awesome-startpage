@@ -38,6 +38,7 @@
 - [b-w-kitty](https://github.com/PrettyCoffee/b-w-kitty) - Very creative and customizable startpage, not only for catlovers.
 - [Chicago Startup Page](https://github.com/timothypholmes/startup-page) - Clean startpage with moody video backgrounds.
 - [grtcdr's startpages](https://github.com/grtcdr/startpages) - grtcdr's awesome collection of clean, good looking, startpages. Love the Nodric one!
+- [HeavyRain266's Startpage](https://github.com/HeavyRain266/startpage) - Yet another minimal startpage 
 - [HomeTerm](https://github.com/Jaredk3nt/HomeTerm) - A homepage disguised as a toy terminal.
 - [Kanji](https://github.com/Alededorigo/Kanji) - Very clean, japan inspired, startpage.
 - [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) - Minimalistic light/darkish startpage
