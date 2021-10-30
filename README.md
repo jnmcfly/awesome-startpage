@@ -29,6 +29,7 @@
 - [Organizr](https://github.com/causefx/Organizr) - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
 - [pomme-page](https://github.com/kikiklang/pomme-page) - Pretty cool startpage with colorful tiles.
 - [PrettyCoffe's Startpage](https://github.com/PrettyCoffee/fluidity) - Super smooth and stylish startpage. Tuned aesthetic.
+- [startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) - Startpage for your browser in Next.js using Typescript and Tailwind.css with Motion Animations 
 - [root](https://github.com/imreyesjorge/root-startpage) - Root is a start-page aimed to simplicity and elegance.
 
 ### Static
