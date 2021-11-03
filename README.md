@@ -42,7 +42,8 @@
 - [HomeTerm](https://github.com/Jaredk3nt/HomeTerm) - A homepage disguised as a toy terminal.
 - [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) - Minimalistic light/darkish startpage
 - [null](https://github.com/sadparadiseinhell/null) - Another one simple startpage.
-- [search](https://github.com/l0bsters/search) - Search offers you an tangle of nodes for your bookmarks.
+- [search](https://github.com/l0bsters/search) - Search offers you an tangle of nodes for your bookmarks. 
+- [StartTree](https://github.com/Paul-Houser/StartTree) - A terminal-style home page replicating the tree command, modified from this start page, which no longer exists.
 - [StartOS](https://github.com/Jaredk3nt/startos) - A different take on startpages. StartOS will bring you back the 90s.
 - [Tea Green](https://github.com/sadparadiseinhell/tea-green) - Startpage with Weather and To-Do List features.
 - [the-glorious-startpage](https://github.com/manilarome/the-glorious-startpage/) - A bloated and modern-looking startpage. Responsive, Weather, Dynamic Background and many more.
