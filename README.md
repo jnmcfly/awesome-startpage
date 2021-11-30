@@ -26,6 +26,7 @@
 ### Hosted
 
 - [flame](https://github.com/pawelmalak/flame) - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use. 
+- [Galax's Startpage](https://github.com/Galax028/startpage) - A minimal startpage made in React.js with customizable bookmarks.
 - [Heimdall](https://github.com/linuxserver/Heimdall) - Server-service based application orientated dashboard.
 - [Organizr](https://github.com/causefx/Organizr) - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
 - [pomme-page](https://github.com/kikiklang/pomme-page) - Pretty cool startpage with colorful tiles.
