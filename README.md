@@ -21,7 +21,9 @@
 
 - [Bento](https://github.com/MiguelRAvila/Bento) - Bento is an local/self-hosted tile-based clean startpage.
 - [Dashy](https://github.com/Lissy93/dashy) - Feature-rish, self-hosted start page for your browser or homelab.
+- [fluidity](https://github.com/PrettyCoffee/fluidity) - Super smooth and stylish startpage. Tuned aesthetic.
 - [Prismatic-Night](https://github.com/dbuxy218/Prismatic-Night) - Pretty sophisticated startpage, hosted on GitHub Pages.
+- [Yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) - Classic startpage layout. Extensive customizability. 
 
 ### Hosted
 
@@ -30,7 +32,6 @@
 - [Heimdall](https://github.com/linuxserver/Heimdall) - Server-service based application orientated dashboard.
 - [Organizr](https://github.com/causefx/Organizr) - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
 - [pomme-page](https://github.com/kikiklang/pomme-page) - Pretty cool startpage with colorful tiles.
-- [PrettyCoffe's Startpage](https://github.com/PrettyCoffee/fluidity) - Super smooth and stylish startpage. Tuned aesthetic.
 - [startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) - Startpage for your browser in Next.js using Typescript and Tailwind.css with Motion Animations 
 - [root](https://github.com/imreyesjorge/root-startpage) - Root is a start-page aimed to simplicity and elegance.
 - [Minimalist-Startpage](https://github.com/ropoko/Startpage) - Minimalist startpage with light/dark theme, also useful to change between searchers.
