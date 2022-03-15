@@ -35,6 +35,7 @@
 - [startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) - Startpage for your browser in Next.js using Typescript and Tailwind.css with Motion Animations 
 - [root](https://github.com/imreyesjorge/root-startpage) - Root is a start-page aimed to simplicity and elegance.
 - [Minimalist-Startpage](https://github.com/ropoko/Startpage) - Minimalist startpage with light/dark theme, also useful to change between searchers.
+- [Modular Grid Page](https://github.com/timothypholmes/startup-page) - Modular Grid Start Page for your Browser. 
 
 ### Static
 
