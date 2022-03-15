@@ -44,6 +44,7 @@
 - [grtcdr's startpages](https://github.com/grtcdr/startpages) - grtcdr's awesome collection of clean, good looking, startpages. Love the Nodric one!
 - [HeavyRain266's Startpage](https://github.com/HeavyRain266/startpage) - Yet another minimal startpage 
 - [HomeTerm](https://github.com/Jaredk3nt/HomeTerm) - A homepage disguised as a toy terminal.
+- [Jaredk3nt's homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser.
 - [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) - Minimalistic light/darkish startpage
 - [null](https://github.com/sadparadiseinhell/null) - Another one simple startpage.
 - [search](https://github.com/l0bsters/search) - Search offers you an tangle of nodes for your bookmarks. 
