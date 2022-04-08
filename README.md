@@ -33,11 +33,12 @@
 
 - [andreacarrara's Startpage](https://github.com/andreacarrara/Startpage) - A clean and simple Keyboard first Startpage.
 - [b-w-kitty](https://github.com/PrettyCoffee/b-w-kitty) - Very creative and customizable startpage, not only for catlovers.
-- [Chicago Startup Page](https://github.com/timothypholmes/startup-page) - Clean startpage with moody video backgrounds.
+- [Chicago Startup Page](https://github.com/timothypholmes/start-page-chicago) - Clean startpage with moody video backgrounds.
 - [grtcdr's startpages](https://github.com/grtcdr/startpages) - grtcdr's awesome collection of clean, good looking, startpages. Love the Nodric one!
 - [HomeTerm](https://github.com/Jaredk3nt/HomeTerm) - A homepage disguised as a toy terminal.
 - [Kanji](https://github.com/Alededorigo/Kanji) - Very clean, japan inspired, startpage.
 - [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) - Minimalistic light/darkish startpage
+- [Modular Start Page](https://github.com/timothypholmes/startup-page) - Grid startpage with many different component panels.
 - [null](https://github.com/sadparadiseinhell/null) - Another one simple startpage.
 - [search](https://github.com/l0bsters/search) - Search offers you an tangle of nodes for your bookmarks.
 - [StartOS](https://github.com/Jaredk3nt/startos) - A different take on startpages. StartOS will bring you back the 90s.
