@@ -40,6 +40,7 @@
 
 ### Static
 
+- [aesthetic-startpage](https://github.com/Nainish-Rai/Aesthetic-Startpage) - Aesthetic-minimal startpage with pixel art, available in 4 color themes.
 - [b-w-kitty](https://github.com/PrettyCoffee/b-w-kitty) - Very creative and customizable startpage, not only for catlovers.
 - [Chicago Startpage](https://github.com/timothypholmes/start-page-chicago) - Clean startpage with moody video backgrounds.
 - [grtcdr's startpages](https://github.com/grtcdr/startpages) - grtcdr's awesome collection of clean, good looking, startpages. Love the Nodric one!
