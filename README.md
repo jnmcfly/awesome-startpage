@@ -20,6 +20,7 @@
 ### GitHub Pages
 
 - [Bento](https://github.com/MiguelRAvila/Bento) - Bento is an local/self-hosted tile-based clean startpage.
+- [Chevron](https://github.com/kholmogorov27/chevron) - Chevron is an animated, minimalistic and highly customisable startpage. Available in Static, Hosted and Github Pages options.
 - [Dashy](https://github.com/Lissy93/dashy) - Feature-rish, self-hosted start page for your browser or homelab.
 - [fluidity](https://github.com/PrettyCoffee/fluidity) - Super smooth and stylish startpage. Tuned aesthetic.
 - [Prismatic-Night](https://github.com/dbuxy218/Prismatic-Night) - Pretty sophisticated startpage, hosted on GitHub Pages.
