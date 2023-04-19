@@ -29,6 +29,7 @@
 
 ### Hosted
 
+- [Excalith Start Page](https://github.com/excalith/excalith-start-page) - A Terminal-inspired, clean, feature-rich and customizable start page for geeks.
 - [flame](https://github.com/pawelmalak/flame) - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
 - [Galax's Startpage](https://github.com/Galax028/startpage) - A minimal startpage made in React.js with customizable bookmarks.
 - [Heimdall](https://github.com/linuxserver/Heimdall) - Server-service based application orientated dashboard.
