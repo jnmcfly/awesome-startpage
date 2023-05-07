@@ -12,6 +12,7 @@
   - [Chrome Add-Ons](#chrome-add-ons)
   - [Firefox Add-Ons](#firefox-add-ons)
 - [Links](#links)
+- [Contributing](#contributing)
 
 ---
 
