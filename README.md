@@ -4,15 +4,17 @@
 
 ## Contents
 
-- [Projects](#projects)
-  - [GitHub Pages](#github-pages)
-  - [Hosted](#hosted)
-  - [Static](#static)
-  - [Firefox Specific](#firefox-specific)
-  - [Chrome Add-Ons](#chrome-add-ons)
-  - [Firefox Add-Ons](#firefox-add-ons)
-- [Links](#links)
-- [Contributing](#contributing)
+- [Awesome Startpage ](#awesome-startpage-)
+  - [Contents](#contents)
+  - [Projects](#projects)
+    - [GitHub Pages](#github-pages)
+    - [Hosted](#hosted)
+    - [Static](#static)
+    - [Firefox-Specific](#firefox-specific)
+    - [Chrome Add-Ons](#chrome-add-ons)
+    - [Firefox Add-Ons](#firefox-add-ons)
+  - [Links](#links)
+  - [Contributing](#contributing)
 
 ---
 
@@ -21,6 +23,7 @@
 ### GitHub Pages
 
 - [Bento](https://github.com/MiguelRAvila/Bento) - Bento is an local/self-hosted tile-based clean startpage.
+- [Catppuccin Startpage](https://github.com/volopivoshenko/catppuccin-startpage) - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages.
 - [Chevron](https://github.com/kholmogorov27/chevron) - Chevron is an animated, minimalistic and highly customisable startpage. Available in Static, Hosted and Github Pages options.
 - [Dashy](https://github.com/Lissy93/dashy) - Feature-rish, self-hosted start page for your browser or homelab.
 - [fluidity](https://github.com/PrettyCoffee/fluidity) - Super smooth and stylish startpage. Tuned aesthetic.
