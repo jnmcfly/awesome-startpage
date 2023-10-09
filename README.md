@@ -23,6 +23,7 @@
 ### GitHub Pages
 
 - [Bento](https://github.com/MiguelRAvila/Bento) - Bento is an local/self-hosted tile-based clean startpage.
+- [Benvenuta](https://github.com/h1tarxeth/Benvenuta-minimal_startpage) -Eassy to use minimalistic and highly customisable startpage self-hosted on Github Pages.
 - [Catppuccin Startpage](https://github.com/volopivoshenko/catppuccin-startpage) - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages.
 - [Chevron](https://github.com/kholmogorov27/chevron) - Chevron is an animated, minimalistic and highly customisable startpage. Available in Static, Hosted and Github Pages options.
 - [Dashy](https://github.com/Lissy93/dashy) - Feature-rish, self-hosted start page for your browser or homelab.
