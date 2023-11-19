@@ -22,21 +22,20 @@
 
 ### GitHub Pages
 
-- [Bento](https://github.com/MiguelRAvila/Bento) - Bento is an local/self-hosted tile-based clean startpage.
 - [Benvenuta](https://github.com/h1tarxeth/Benvenuta-minimal_startpage) -Eassy to use minimalistic and highly customisable startpage self-hosted on Github Pages.
 - [Catppuccin Startpage](https://github.com/volopivoshenko/catppuccin-startpage) - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages.
 - [Chevron](https://github.com/kholmogorov27/chevron) - Chevron is an animated, minimalistic and highly customisable startpage. Available in Static, Hosted and Github Pages options.
-- [Dashy](https://github.com/Lissy93/dashy) - Feature-rish, self-hosted start page for your browser or homelab.
-- [fluidity](https://github.com/PrettyCoffee/fluidity) - Super smooth and stylish startpage. Tuned aesthetic.
 - [Prismatic-Night](https://github.com/dbuxy218/Prismatic-Night) - Pretty sophisticated startpage, hosted on GitHub Pages.
-- [Tartarus](https://github.com/AllJavi/tartarus-startpage) - Aesthetic and clean startpage with material gruvbox style, designed for smooth usage.
-- [_traichu](https://github.com/Tressley/_traichu) - A simple, semantic start page built with HTML, CSS, and a mouse-sized bit of JavaScript.
 - [Yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) - Classic startpage layout. Extensive customizability.
 
 ### Hosted
 
+- [_traichu](https://github.com/Tressley/_traichu) - A simple, semantic start page built with HTML, CSS, and a mouse-sized bit of JavaScript.
+- [Bento](https://github.com/MiguelRAvila/Bento) - Bento is an local/self-hosted tile-based clean startpage.
+- [Dashy](https://github.com/Lissy93/dashy) - Feature-rish, self-hosted start page for your browser or homelab.
 - [Excalith Start Page](https://github.com/excalith/excalith-start-page) - A Terminal-inspired, clean, feature-rich and customizable start page for geeks.
 - [flame](https://github.com/pawelmalak/flame) - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
+- [fluidity](https://github.com/PrettyCoffee/fluidity) - Super smooth and stylish startpage. Tuned aesthetic.
 - [Galax's Startpage](https://github.com/Galax028/startpage) - A minimal startpage made in React.js with customizable bookmarks.
 - [Heimdall](https://github.com/linuxserver/Heimdall) - Server-service based application orientated dashboard.
 - [Jump](https://github.com/daledavies/jump) - Self-hosted startpage designed to be simple, stylish, fast and secure.
@@ -48,6 +47,7 @@
 - [root](https://github.com/imreyesjorge/root-startpage) - Root is a start-page aimed to simplicity and elegance.
 - [startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy.
 - [startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) - Startpage for your browser in Next.js using Typescript and Tailwind.css with Motion Animations
+- [Tartarus](https://github.com/AllJavi/tartarus-startpage) - Aesthetic and clean startpage with material gruvbox style, designed for smooth usage.
 
 ### Static
 
@@ -63,12 +63,12 @@
 - [Modular Startpage](https://github.com/timothypholmes/startup-page) - Grid startpage with many different component panels.
 - [null](https://github.com/sadparadiseinhell/null) - Another one simple startpage.
 - [search](https://github.com/l0bsters/search) - Search offers you an tangle of nodes for your bookmarks.
-- [StartTree](https://github.com/Paul-Houser/StartTree) - A terminal-style home page replicating the tree command, modified from this start page, which no longer exists.
 - [StartOS](https://github.com/Jaredk3nt/startos) - A different take on startpages. StartOS will bring you back the 90s.
+- [startpage-onedark](https://github.com/AbdelrhmanNile/startpage-onedark) - A minimal customizable startpage with the OneDark color palette.
+- [StartTree](https://github.com/Paul-Houser/StartTree) - A terminal-style home page replicating the tree command, modified from this start page, which no longer exists.
 - [Tea Green](https://github.com/sadparadiseinhell/tea-green) - Startpage with Weather and To-Do List features.
 - [the-glorious-startpage](https://github.com/manilarome/the-glorious-startpage/) - A bloated and modern-looking startpage. Responsive, Weather, Dynamic Background and many more.
 - [Tilde Enhanced](https://github.com/Ozencb/tilde-enhanced) - A minimal startpage for your browser.
-- [startpage-onedark](https://github.com/AbdelrhmanNile/startpage-onedark) - A minimal customizable startpage with the OneDark color palette.
 
 ### Firefox-Specific
 
@@ -78,11 +78,11 @@
 ### Chrome Add-Ons
 
 - [Bonjourr](https://chrome.google.com/webstore/detail/bonjourr/dlnejlppicbjfcfcedcflplfjajinajd) - iOS and open source styled StartPage. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/)
+- [deepjyoti30's Startpage](https://github.com/deepjyoti30/startpage) -  A minimal starpage for Chrome and Firefox.
 - [Derigo Dash](https://chrome.google.com/webstore/detail/derigo-dash/aiadgflpmkcihappkfkbgehghkiadnip) - Customize your browser startpage with a user friendly interface
 - [hexagonTab](https://chrome.google.com/webstore/detail/hexagontab/hjapnkiokjkamfjenbdagacmpkobjlgi) - Save bookmarks to your start page on a unique hexagonal grid. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/hexagontab/)
-- [New Tab Redirect](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna) - Allows a user to provide the URL of the page that loads in a new tab.
 - [mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers.
-- [deepjyoti30's Startpage](https://github.com/deepjyoti30/startpage) -  A minimal starpage for Chrome and Firefox.
+- [New Tab Redirect](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna) - Allows a user to provide the URL of the page that loads in a new tab.
 - [nightTab](https://chrome.google.com/webstore/detail/nighttab/hdpcadigjkbcpnlcpbcohpafiaefanki) - A highly customisable neutral new tab page accented with a chosen colour. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/nighttab/).
 - [Rolex GMT-Master II Start Page](https://chrome.google.com/webstore/detail/rolex-gmt-master-ii-start/hchnfnfjjknanhhconaappneoejmgngi?hl=en&authuser=0) - A working replica of a Rolex GMT II timepiece with a user-customizable GMT hand for a second timezone.
 - [Sourcetab](https://github.com/sourcetab/sourcetab) - An open-source dashboard for your browser's new tab page, customizable with a variety of widgets and settings. Available on [Chrome](https://chrome.google.com/webstore/detail/sourcetab/akomlegpokabommpdjfmhnbdcnaefmdo), [Edge](https://microsoftedge.microsoft.com/addons/detail/sourcetab/fpknfiaimmgbbpplehjclidiphmhljeh), and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sourcetab/).
