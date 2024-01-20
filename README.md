@@ -49,6 +49,7 @@
 - [startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy.
 - [startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) - Startpage for your browser in Next.js using Typescript and Tailwind.css with Motion Animations
 - [Tartarus](https://github.com/AllJavi/tartarus-startpage) - Aesthetic and clean startpage with material gruvbox style, designed for smooth usage.
+- [Mafl](https://github.com/hywax/mafl) - Minimalistic flexible homepage.
 
 ### Static
 
