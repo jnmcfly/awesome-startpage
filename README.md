@@ -25,13 +25,14 @@
 - [Benvenuta](https://github.com/h1tarxeth/Benvenuta-minimal_startpage) -Eassy to use minimalistic and highly customisable startpage self-hosted on Github Pages.
 - [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages.
 - [Chevron](https://github.com/kholmogorov27/chevron) - Chevron is an animated, minimalistic and highly customisable startpage. Available in Static, Hosted and Github Pages options.
+- [Minime](https://github.com/yashchaudhari008/minime) - Minimalistic homepage with tabular bookmarks.
 - [Hexstart](https://github.com/ArmoredVortex/Hexstart) - Highly customisable minimal startpage with hexagonal tiles, hosted on Github Pages.
 - [Prismatic-Night](https://github.com/dbuxy218/Prismatic-Night) - Pretty sophisticated startpage, hosted on GitHub Pages.
 - [Yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) - Classic startpage layout. Extensive customizability.
 
 ### Hosted
 
-- [_traichu](https://github.com/Tressley/_traichu) - A simple, semantic start page built with HTML, CSS, and a mouse-sized bit of JavaScript.
+- [\_traichu](https://github.com/Tressley/_traichu) - A simple, semantic start page built with HTML, CSS, and a mouse-sized bit of JavaScript.
 - [Bento](https://github.com/MiguelRAvila/Bento) - Bento is an local/self-hosted tile-based clean startpage.
 - [Dashy](https://github.com/Lissy93/dashy) - Feature-rish, self-hosted start page for your browser or homelab.
 - [Excalith Start Page](https://github.com/excalith/excalith-start-page) - A Terminal-inspired, clean, feature-rich and customizable start page for geeks.
@@ -80,7 +81,7 @@
 ### Chrome Add-Ons
 
 - [Bonjourr](https://chrome.google.com/webstore/detail/bonjourr/dlnejlppicbjfcfcedcflplfjajinajd) - iOS and open source styled StartPage. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/)
-- [deepjyoti30's Startpage](https://github.com/deepjyoti30/startpage) -  A minimal starpage for Chrome and Firefox.
+- [deepjyoti30's Startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox.
 - [Derigo Dash](https://chrome.google.com/webstore/detail/derigo-dash/aiadgflpmkcihappkfkbgehghkiadnip) - Customize your browser startpage with a user friendly interface
 - [hexagonTab](https://chrome.google.com/webstore/detail/hexagontab/hjapnkiokjkamfjenbdagacmpkobjlgi) - Save bookmarks to your start page on a unique hexagonal grid. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/hexagontab/)
 - [mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers.
@@ -88,7 +89,6 @@
 - [nightTab](https://chrome.google.com/webstore/detail/nighttab/hdpcadigjkbcpnlcpbcohpafiaefanki) - A highly customisable neutral new tab page accented with a chosen colour. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/nighttab/).
 - [Rolex GMT-Master II Start Page](https://chrome.google.com/webstore/detail/rolex-gmt-master-ii-start/hchnfnfjjknanhhconaappneoejmgngi?hl=en&authuser=0) - A working replica of a Rolex GMT II timepiece with a user-customizable GMT hand for a second timezone.
 - [Sourcetab](https://github.com/sourcetab/sourcetab) - An open-source dashboard for your browser's new tab page, customizable with a variety of widgets and settings. Available on [Chrome](https://chrome.google.com/webstore/detail/sourcetab/akomlegpokabommpdjfmhnbdcnaefmdo), [Edge](https://microsoftedge.microsoft.com/addons/detail/sourcetab/fpknfiaimmgbbpplehjclidiphmhljeh), and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sourcetab/).
-
 
 ### Firefox Add-Ons
 
