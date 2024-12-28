@@ -52,6 +52,7 @@
 - [startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) - Startpage for your browser in Next.js using Typescript and Tailwind.css with Motion Animations
 - [Tartarus](https://github.com/AllJavi/tartarus-startpage) - Aesthetic and clean startpage with material gruvbox style, designed for smooth usage.
 - [Mafl](https://github.com/hywax/mafl) - Minimalistic flexible homepage.
+- [Tokyonight-Startpage](https://github.com/Terminal127/tokyonight-startpage) - A Hackable start-page in Tokyonight Color Scheme.
 
 ### Static
 
