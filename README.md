@@ -67,6 +67,7 @@
 - [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) - Minimalistic light/darkish startpage
 - [Modular Startpage](https://github.com/timothypholmes/startup-page) - Grid startpage with many different component panels.
 - [null](https://github.com/sadparadiseinhell/null) - Another one simple startpage.
+- [QuickLinks](https://github.com/imzaok/QuickLinks) - A simple, customizable startpage where users can organize and access their most frequently used links.
 - [search](https://github.com/l0bsters/search) - Search offers you an tangle of nodes for your bookmarks.
 - [StartOS](https://github.com/Jaredk3nt/startos) - A different take on startpages. StartOS will bring you back the 90s.
 - [startpage-onedark](https://github.com/AbdelrhmanNile/startpage-onedark) - A minimal customizable startpage with the OneDark color palette.
