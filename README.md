@@ -36,6 +36,7 @@
 - [\_traichu](https://github.com/Tressley/_traichu) - A simple, semantic start page built with HTML, CSS, and a mouse-sized bit of JavaScript.
 - [Bento](https://github.com/MiguelRAvila/Bento) - Bento is an local/self-hosted tile-based clean startpage.
 - [Dashy](https://github.com/Lissy93/dashy) - Feature-rich, self-hosted start page for your browser or homelab.
+- [Dawn](https://github.com/TheMY3/dawn-startpage) - Clean Nord-themed startpage with hotkey support, dynamic configuration, and Chrome extension compatibility.
 - [Excalith Start Page](https://github.com/excalith/excalith-start-page) - A Terminal-inspired, clean, feature-rich and customizable start page for geeks.
 - [flame](https://github.com/pawelmalak/flame) - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
 - [fluidity](https://github.com/PrettyCoffee/fluidity) - Super smooth and stylish startpage. Tuned aesthetic.
