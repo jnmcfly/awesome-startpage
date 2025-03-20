@@ -31,6 +31,9 @@
 - [Prismatic-Night](https://github.com/dbuxy218/Prismatic-Night) - Pretty sophisticated startpage, hosted on GitHub Pages.
 - [Yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) - Classic startpage layout. Extensive customizability.
 
+### Cloudflare Pages
+- [nazhome](https://github.com/nazdridoy/nazhome) - A minimalistic startpage that combines elegance with functionality, featuring customizable widgets, dynamic backgrounds, and a clean interface 
+
 ### Hosted
 
 - [\_traichu](https://github.com/Tressley/_traichu) - A simple, semantic start page built with HTML, CSS, and a mouse-sized bit of JavaScript.
