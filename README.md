@@ -48,6 +48,7 @@
 - [Homepage](https://github.com/gethomepage/homepage) - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
 - [Jump](https://github.com/daledavies/jump) - Self-hosted startpage designed to be simple, stylish, fast and secure.
 - [Minimalist-Startpage](https://github.com/ropoko/Startpage) - Minimalist startpage with light/dark theme, also useful to change between searchers.
+- [MSP - Modern Start Page](https://github.com/ericblue/modern-start-page) - Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.
 - [Modular Grid Page](https://github.com/timothypholmes/startup-page) - Modular Grid Start Page for your Browser.
 - [Nordic Goose](https://github.com/PrettyCoffee/nordic-goose) - Nordic goose is a new tab extension (aka startpage) with nord colors and a dancing goose.
 - [Organizr](https://github.com/causefx/Organizr) - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
