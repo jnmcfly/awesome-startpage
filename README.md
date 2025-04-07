@@ -88,6 +88,7 @@
 ### Chrome Add-Ons
 
 - [Bonjourr](https://chrome.google.com/webstore/detail/bonjourr/dlnejlppicbjfcfcedcflplfjajinajd) - iOS and open source styled StartPage. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/)
+- [Casca New Tab](https://casca.space/) - A robust and customizable startpage based on Apple's design language. Also available for firefox.
 - [deepjyoti30's Startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox.
 - [Derigo Dash](https://chrome.google.com/webstore/detail/derigo-dash/aiadgflpmkcihappkfkbgehghkiadnip) - Customize your browser startpage with a user friendly interface
 - [hexagonTab](https://chrome.google.com/webstore/detail/hexagontab/hjapnkiokjkamfjenbdagacmpkobjlgi) - Save bookmarks to your start page on a unique hexagonal grid. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/hexagontab/)
