@@ -73,6 +73,7 @@
 - [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) - Minimalistic light/darkish startpage
 - [Modular Startpage](https://github.com/timothypholmes/startup-page) - Grid startpage with many different component panels.
 - [null](https://github.com/sadparadiseinhell/null) - Another one simple startpage.
+- [re-start](https://github.com/refact0r/re-start) - A TUI-like startpage with weather, Todoist integration, and other features.
 - [search](https://github.com/l0bsters/search) - Search offers you an tangle of nodes for your bookmarks.
 - [StartOS](https://github.com/Jaredk3nt/startos) - A different take on startpages. StartOS will bring you back the 90s.
 - [startpage-onedark](https://github.com/AbdelrhmanNile/startpage-onedark) - A minimal customizable startpage with the OneDark color palette.
@@ -80,7 +81,6 @@
 - [Tea Green](https://github.com/sadparadiseinhell/tea-green) - Startpage with Weather and To-Do List features.
 - [the-glorious-startpage](https://github.com/manilarome/the-glorious-startpage/) - A bloated and modern-looking startpage. Responsive, Weather, Dynamic Background and many more.
 - [Tilde Enhanced](https://github.com/Ozencb/tilde-enhanced) - A minimal startpage for your browser.
-- [re-start](https://github.com/refact0r/re-start) - A TUI-like startpage with weather, Todoist integration, and other features.
 
 ### Firefox-Specific
 
