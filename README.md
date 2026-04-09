@@ -75,6 +75,7 @@
 - [null](https://github.com/sadparadiseinhell/null) - Another one simple startpage.
 - [re-start](https://github.com/refact0r/re-start) - A TUI-like startpage with weather, Todoist integration, and other features.
 - [search](https://github.com/l0bsters/search) - Search offers you an tangle of nodes for your bookmarks.
+- [static-dashboard](https://github.com/mina-ai-assistant/static-dashboard) - A static bookmark dashboard generator that builds a single HTML startpage from a YAML file.
 - [StartOS](https://github.com/Jaredk3nt/startos) - A different take on startpages. StartOS will bring you back the 90s.
 - [startpage-onedark](https://github.com/AbdelrhmanNile/startpage-onedark) - A minimal customizable startpage with the OneDark color palette.
 - [StartTree](https://github.com/Paul-Houser/StartTree) - A terminal-style home page replicating the tree command, modified from this start page, which no longer exists.
