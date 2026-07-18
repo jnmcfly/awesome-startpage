@@ -96,6 +96,7 @@
 - [deepjyoti30's Startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox.
 - [Derigo Dash](https://chrome.google.com/webstore/detail/derigo-dash/aiadgflpmkcihappkfkbgehghkiadnip) - Customize your browser startpage with a user friendly interface
 - [hexagonTab](https://chrome.google.com/webstore/detail/hexagontab/hjapnkiokjkamfjenbdagacmpkobjlgi) - Save bookmarks to your start page on a unique hexagonal grid. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/hexagontab/)
+- [KeyJump](https://chromewebstore.google.com/detail/keyjump/ndlbcilgloocaeigaflfcojdooomhake) - Keyboard-first new tab: press one key to open a site, folder or search. Themes, wallpapers, an on-page overlay, and optional sync. Also available for [Firefox](https://addons.mozilla.org/firefox/addon/keyjump/).
 - [mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers.
 - [New Tab Redirect](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna) - Allows a user to provide the URL of the page that loads in a new tab.
 - [New Tab Widgets](https://chromewebstore.google.com/detail/new-tab-widgets/ejnndgifkmlldcdlifjaeanhjegoafcl) - Turn your new tab page into a personalized dashboard filled with over 40 powerful, interactive widgets. An iframe widget allows embedding any web app or website on your new tab page. Other popular widgets include RSS, Weather, Google Mail, Google Calendar and Spotify.
