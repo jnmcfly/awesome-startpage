@@ -22,8 +22,7 @@
 
 ### GitHub Pages
 
-- [Benvenuta](https://github.com/h1tarxeth/Benvenuta-minimal_startpage) -Eassy to use minimalistic and highly customisable startpage self-hosted on Github Pages.
-- [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages.
+- - [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages.
 - [Chevron](https://github.com/kholmogorov27/chevron) - Chevron is an animated, minimalistic and highly customisable startpage. Available in Static, Hosted and Github Pages options.
 - [GTA-SA Menu Startpage](https://github.com/wjkba/gta-sa-menu-startpage) - Start page that looks like the iconic GTA San Andreas menu.
 - [Minime](https://github.com/yashchaudhari008/minime) - Minimalistic homepage with tabular bookmarks.
