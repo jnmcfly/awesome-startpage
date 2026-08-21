@@ -90,6 +90,7 @@
 
 ### Chrome Add-Ons
 
+- [Abunch](https://chromewebstore.google.com/detail/abunch-%E2%80%94-homepage-on-star/mmdmepbbnifiofpncepgbpimdjajgfal) - Opens a homepage of your saved links when the browser starts, keeping daily and occasional links in separate areas of one screen.
 - [Bonjourr](https://chrome.google.com/webstore/detail/bonjourr/dlnejlppicbjfcfcedcflplfjajinajd) - iOS and open source styled StartPage. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/)
 - [Casca New Tab](https://casca.space/) - A robust and customizable startpage based on Apple's design language. Also available for firefox.
 - [deepjyoti30's Startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox.
