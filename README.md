@@ -46,6 +46,7 @@
 - [Heimdall](https://github.com/linuxserver/Heimdall) - Server-service based application orientated dashboard.
 - [Homepage](https://github.com/gethomepage/homepage) - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
 - [Jump](https://github.com/daledavies/jump) - Self-hosted startpage designed to be simple, stylish, fast and secure.
+- [JumpKey](https://github.com/desirevolution/jump-key) - A minimalist, keyboard-driven, local-first start page for your services and links.
 - [Minimalist-Startpage](https://github.com/ropoko/Startpage) - Minimalist startpage with light/dark theme, also useful to change between searchers.
 - [MSP - Modern Start Page](https://github.com/ericblue/modern-start-page) - Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.
 - [Modular Grid Page](https://github.com/timothypholmes/startup-page) - Modular Grid Start Page for your Browser.
