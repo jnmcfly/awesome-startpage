@@ -44,6 +44,7 @@
 - [fluidity](https://github.com/PrettyCoffee/fluidity) - Super smooth and stylish startpage. Tuned aesthetic.
 - [Galax's Startpage](https://github.com/Galax028/startpage) - A minimal startpage made in React.js with customizable bookmarks.
 - [Heimdall](https://github.com/linuxserver/Heimdall) - Server-service based application orientated dashboard.
+- [Homepad](https://github.com/finish06/homepad) - Self-hosted dashboard for households with per-person favorites and order, live status from Gatus, OIDC login, and an installable PWA.
 - [Homepage](https://github.com/gethomepage/homepage) - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
 - [Jump](https://github.com/daledavies/jump) - Self-hosted startpage designed to be simple, stylish, fast and secure.
 - [Minimalist-Startpage](https://github.com/ropoko/Startpage) - Minimalist startpage with light/dark theme, also useful to change between searchers.
