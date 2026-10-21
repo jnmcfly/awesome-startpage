@@ -83,6 +83,7 @@
 - [Tea Green](https://github.com/sadparadiseinhell/tea-green) - Startpage with Weather and To-Do List features.
 - [the-glorious-startpage](https://github.com/manilarome/the-glorious-startpage/) - A bloated and modern-looking startpage. Responsive, Weather, Dynamic Background and many more.
 - [Tilde Enhanced](https://github.com/Ozencb/tilde-enhanced) - A minimal startpage for your browser.
+- [WarMode StartPage](https://github.com/piyush-security/warmode-startpage) - A distraction-free, aesthetic, offline-first browser command center engineered for developers, security researchers, and deep-focus work.
 
 ### Firefox-Specific
 
