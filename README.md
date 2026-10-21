@@ -25,6 +25,7 @@
 - - [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages.
 - [Chevron](https://github.com/kholmogorov27/chevron) - Chevron is an animated, minimalistic and highly customisable startpage. Available in Static, Hosted and Github Pages options.
 - [GTA-SA Menu Startpage](https://github.com/wjkba/gta-sa-menu-startpage) - Start page that looks like the iconic GTA San Andreas menu.
+- [HaDeS' Shortcuts](https://github.com/Devildonia/hades_shortcuts) - Highly customisable Vanilla JS Bento startpage with a drag-and-drop box editor, i18n (4 languages) and a Chrome MV3 new-tab package, hosted on GitHub Pages.
 - [Minime](https://github.com/yashchaudhari008/minime) - Minimalistic homepage with tabular bookmarks.
 - [Hexstart](https://github.com/ArmoredVortex/Hexstart) - Highly customisable minimal startpage with hexagonal tiles, hosted on Github Pages.
 - [Prismatic-Night](https://github.com/dbuxy218/Prismatic-Night) - Pretty sophisticated startpage, hosted on GitHub Pages.
