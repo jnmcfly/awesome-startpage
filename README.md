@@ -22,8 +22,9 @@
 
 ### GitHub Pages
 
-- - [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages.
+- [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages.
 - [Chevron](https://github.com/kholmogorov27/chevron) - Chevron is an animated, minimalistic and highly customisable startpage. Available in Static, Hosted and Github Pages options.
+- [Custom Homepage](https://github.com/ZxVjaz/custom-homepage) - Highly customizable startpage styled with Catppuccin palettes, featuring an in-browser GUI settings modal, weather & clock widgets, and banner animations.
 - [GTA-SA Menu Startpage](https://github.com/wjkba/gta-sa-menu-startpage) - Start page that looks like the iconic GTA San Andreas menu.
 - [Minime](https://github.com/yashchaudhari008/minime) - Minimalistic homepage with tabular bookmarks.
 - [Hexstart](https://github.com/ArmoredVortex/Hexstart) - Highly customisable minimal startpage with hexagonal tiles, hosted on Github Pages.
