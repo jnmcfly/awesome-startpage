@@ -103,6 +103,7 @@
 - [nightTab](https://chrome.google.com/webstore/detail/nighttab/hdpcadigjkbcpnlcpbcohpafiaefanki) - A highly customisable neutral new tab page accented with a chosen colour. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/nighttab/).
 - [Rolex GMT-Master II Start Page](https://chrome.google.com/webstore/detail/rolex-gmt-master-ii-start/hchnfnfjjknanhhconaappneoejmgngi?hl=en&authuser=0) - A working replica of a Rolex GMT II timepiece with a user-customizable GMT hand for a second timezone.
 - [Sourcetab](https://github.com/sourcetab/sourcetab) - An open-source dashboard for your browser's new tab page, customizable with a variety of widgets and settings. Available on [Chrome](https://chrome.google.com/webstore/detail/sourcetab/akomlegpokabommpdjfmhnbdcnaefmdo), [Edge](https://microsoftedge.microsoft.com/addons/detail/sourcetab/fpknfiaimmgbbpplehjclidiphmhljeh), and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sourcetab/).
+- [Stackboard](https://chromewebstore.google.com/detail/bgcedhchngcopaefchpkbhioagknnpma) - New tab that shows your Chrome bookmarks as a board of spaces and stacks, with search and one-click tab stashing. Open source (MIT).
 
 ### Firefox Add-Ons
 
