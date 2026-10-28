@@ -91,6 +91,7 @@
 
 ### Chrome Add-Ons
 
+- [Archer](https://github.com/thellis954/archer-tabs) - Open source new tab page with one box that opens URLs or sends questions to Google, ChatGPT, Claude or Perplexity.
 - [Bonjourr](https://chrome.google.com/webstore/detail/bonjourr/dlnejlppicbjfcfcedcflplfjajinajd) - iOS and open source styled StartPage. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/)
 - [Casca New Tab](https://casca.space/) - A robust and customizable startpage based on Apple's design language. Also available for firefox.
 - [deepjyoti30's Startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox.
